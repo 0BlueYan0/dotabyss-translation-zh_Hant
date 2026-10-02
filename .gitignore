@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# AI collaboration artifacts
+docs/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+*.plan.md

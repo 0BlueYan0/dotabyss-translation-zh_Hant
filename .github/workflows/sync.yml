@@ -1,0 +1,76 @@
+name: Sync upstream
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "translations/replacements/**"
+      - "overrides.tsv"
+      - "fixes.tsv"
+      - "scripts/**"
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch upstream
+        id: upstream
+        run: |
+          git clone --depth 1 https://github.com/anosu/dotabyss-translation.git "$RUNNER_TEMP/upstream"
+          new=$(git -C "$RUNNER_TEMP/upstream" rev-parse HEAD)
+          old=$(cat .upstream-commit 2>/dev/null || true)
+          echo "new=$new" >> "$GITHUB_OUTPUT"
+          echo "old=$old" >> "$GITHUB_OUTPUT"
+          # Hourly runs stop here when upstream has not moved. Pushes that touch
+          # the tables or images still rebuild, since their output changes.
+          if [ "$new" = "$old" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.upstream.outputs.skip != 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Convert
+        if: steps.upstream.outputs.skip != 'true'
+        run: |
+          pip install -r requirements.txt
+          python scripts/convert.py --src "$RUNNER_TEMP/upstream/translations"
+          PYTHONPATH="$RUNNER_TEMP/upstream" python -c "from manifest import Manifest; Manifest('translations', 'zh_Hant').update()"
+          echo "${{ steps.upstream.outputs.new }}" > .upstream-commit
+
+      - name: Commit
+        if: steps.upstream.outputs.skip != 'true'
+        run: |
+          git add -A translations .upstream-commit
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          old="${{ steps.upstream.outputs.old }}"
+          new="${{ steps.upstream.outputs.new }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ "$old" = "$new" ] || [ -z "$old" ]; then
+            git commit -m "chore(sync): rebuild from upstream ${new:0:7}"
+          else
+            git commit -m "chore(sync): convert upstream ${old:0:7}..${new:0:7}" \
+              -m "https://github.com/anosu/dotabyss-translation/compare/${old}...${new}"
+          fi
+          git pull --rebase
+          git push

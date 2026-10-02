@@ -1,0 +1,1784 @@
+{
+  "CellView(Clone)/List_PullDown/RootUI/Text": {
+    "ランク{0}以下": "級別{0}以下"
+  },
+  "CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "攻撃：{0}": "攻擊：{0}"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
+    "ホーム\n": "主頁\n"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextNormal": {
+    "ホーム": "主頁"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
+    "ホーム": "主頁"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/Text*": {
+    "パーティ": "隊伍"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/Text*": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/Text*": {
+    "娼館": "娼館"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
+    "イベント": "活動"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/Text*": {
+    "クエスト": "冒險"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
+    "探索隊\n": "探索隊\n"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextNormal": {
+    "探索隊": "探索隊"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextSelected": {
+    "探索隊": "探索隊"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/Header/Default/InfomationBar/Equipment/Body_EquipmentAmount/TextTitle": {
+    "所持装備": "持有裝備"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
+    "キャラクター選択": "角色選擇",
+    "スタッフ選択": "員工選擇",
+    "パーティ": "隊伍",
+    "一括分解": "批次分解",
+    "交流": "交流",
+    "娼館": "娼館",
+    "深淵": "深淵",
+    "編成": "編隊",
+    "装備一覧": "裝備一覽",
+    "装備選択": "裝備選擇"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
+    "司令官Lv": "司令官Lv"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Info/Text": {
+    "連携コードをお忘れの場合は連携コードの再発行を行ってください。": "若忘記綁定碼，請重新生成綁定碼。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Count/Text": {
+    "/10文字": "/10個字元"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Title_InputField/InputField/Text Area/Placeholder": {
+    "プレイヤーID": "玩家ID"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Title_InputField/Text": {
+    "プレイヤーID": "玩家ID"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Count/Text": {
+    "/{0}文字": "/{0}個字元"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Title_InputField/InputField/Text Area/Placeholder": {
+    "連携コード": "綁定碼"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Title_InputField/Text": {
+    "連携コード": "綁定碼"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Popup_Title_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Popup_Title_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "連携する": "綁定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Text": {
+    "連携元プレイヤーIDと連携コードを入力してください。": "請輸入原賬號的玩家ID和綁定碼。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/TextTitle": {
+    "データ連携": "資料綁定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element0/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element1/RootUI/Parts/Text": {
+    "火": "火"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element2/RootUI/Parts/Text": {
+    "水": "水"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element3/RootUI/Parts/Text": {
+    "土": "土"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element4/RootUI/Parts/Text": {
+    "光": "光"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element5/RootUI/Parts/Text": {
+    "闇": "暗"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element6/RootUI/Parts/Text": {
+    "無": "無"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/H3Dark/TextTitle": {
+    "属性": "屬性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/CheckBox/PartyTypeBalance/RootUI/Parts/Text": {
+    "バランス優先": "平衡優先"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/CheckBox/PartyTypePower/RootUI/Parts/Text": {
+    "戦力優先": "戰鬥力優先"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/H3Dark/TextTitle": {
+    "編成傾向": "編隊傾向"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetAll/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetCharacter/RootUI/Parts/Text": {
+    "キャラクター": "角色"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetEquipment/RootUI/Parts/Text": {
+    "装備": "裝備"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetManaGem/RootUI/Parts/Text": {
+    "マナクリスタル": "能量水晶"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/H3Dark/TextTitle": {
+    "おまかせ対象": "自動編隊對象"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union0/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union1/RootUI/Parts/Text": {
+    "ミレスガルド": "米雷斯加德"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union2/RootUI/Parts/Text": {
+    "ペルディオン": "佩爾迪翁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union3/RootUI/Parts/Text": {
+    "エルドラーナ": "埃爾多拉納"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union4/RootUI/Parts/Text": {
+    "千国連合": "千國聯合"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union5/RootUI/Parts/Text": {
+    "ルクスノヴァ": "LuxNova"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/H3Dark/TextTitle": {
+    "所属国": "所屬陣營"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/TextTitle": {
+    "おまかせ編成": "自動編隊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/ButtonArea/Button_Initialization/RootUI/Parts/Text": {
+    "フィルター初期化": "重置篩選"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Story/H4/TextTitle": {
+    "ストーリー": "劇情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Story/Story/RootUI/Parts/Text": {
+    "未開放ストーリーがある": "有未解鎖劇情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/H4/TextTitle": {
+    "提案カード": "提案卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern/RootUI/Parts/Text": {
+    "満足度UP": "滿意度提升"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern1/RootUI/Parts/Text": {
+    "サービス付与": "服務新增"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/H4/TextTitle": {
+    "スタッフ登録": "員工登記"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/Tavern/RootUI/Parts/Text": {
+    "登録済": "已登記"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/Tavern1/RootUI/Parts/Text": {
+    "登録なし": "未登記"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/H4/TextTitle": {
+    "スタンス": "定位"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position0/RootUI/Parts/Text": {
+    "フロント": "前排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position1/RootUI/Parts/Text": {
+    "バック": "後排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position2/RootUI/Parts/Text": {
+    "アシスト": "輔助"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/H4/TextTitle": {
+    "所属勢力": "所屬陣營"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union1/RootUI/Parts/Text": {
+    "ミレスガルド": "米雷斯加德"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union2/RootUI/Parts/Text": {
+    "ペルディオン": "佩爾迪翁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union3/RootUI/Parts/Text": {
+    "エルドラーナ": "埃爾多拉納"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union4/RootUI/Parts/Text": {
+    "千国連合": "千國聯合"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union5/RootUI/Parts/Text": {
+    "ルクスノヴァ": "LuxNova"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort10/RootUI/Parts/Text": {
+    "入手": "獲取順序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort11/RootUI/Parts/Text": {
+    "限界突破": "限界突破"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort15/RootUI/Parts/Text": {
+    "レアリティ": "稀有度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort18/RootUI/Parts/Text": {
+    "名前": "名稱"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort19/RootUI/Parts/Text": {
+    "所属勢力": "所屬陣營"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort20/RootUI/Parts/Text": {
+    "スタンス": "定位"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort23/RootUI/Parts/Text": {
+    "紋章": "紋章"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort24/RootUI/Parts/Text": {
+    "属性": "屬性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort1/RootUI/Parts/Text": {
+    "攻撃力": "攻擊力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort13/RootUI/Parts/Text": {
+    "Lv": "等級"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort16/RootUI/Parts/Text": {
+    "絆Lv": "好感度等級"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort17/RootUI/Parts/Text": {
+    "戦力": "戰鬥力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort2/RootUI/Parts/Text": {
+    "防御力": "防禦力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort3/RootUI/Parts/Text": {
+    "炎上耐性": "燃燒抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort4/RootUI/Parts/Text": {
+    "凍結耐性": "冰凍抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort5/RootUI/Parts/Text": {
+    "石化耐性": "石化抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort6/RootUI/Parts/Text": {
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort7/RootUI/Parts/Text": {
+    "魅了耐性": "魅惑抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort8/RootUI/Parts/Text": {
+    "喪失耐性": "喪失抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Selected_Tab/Text": {
+    "ソート": "排序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "フィルター": "篩選"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Selected_Tab/Text": {
+    "フィルター": "篩選"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/TextTitle": {
+    "表示設定": "顯示設置"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定",
+    "終了": "結束"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Text": {
+    "一括解除を行います。<br>すべてのキャラクターとマナクリスタルが外れます。": "執行全部移除後。<br>所有的角色和能量水晶都將被卸下。",
+    "未登録の変更内容があります<br>変更内容を破棄して編成を終了しますか？": "存在未保存的更改<br>是否放棄這些更改並結束編隊？"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/TextTitle": {
+    "一括解除": "全部移除",
+    "確認": "確認"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Layout/Text": {
+    "「{0}」<br>を再生します。よろしいですか？": "即將播放<br>「{0}」<br>是否繼續？"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "再生": "播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/TextTitle": {
+    "確認": "確認"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Popup_ButtonSet_Long3/Button_Voice_Off/RootUI/Parts/Text": {
+    "ボイス無しで再生": "無語音播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Popup_ButtonSet_Long3/Button_Voice_On/RootUI/Parts/Text": {
+    "ボイスありで再生": "有語音播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Text": {
+    "追加データをダウンロードします。<br>ボイスを再生しますか？": "即將下載追加資料。<br>是否播放語音？"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_Off/Title/Text": {
+    "ボイス なし": "無語音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_Off/Title/TextTitle": {
+    "ダウンロードサイズ": "下載大小"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_On/Title/Text": {
+    "ボイス あり": "有語音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_On/Title/TextTitle": {
+    "ダウンロードサイズ": "下載大小"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/TextTitle": {
+    "データダウンロード": "資料下載"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Head/": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Rank/H5/TextTitle": {
+    "ランク": "級別"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Status/Parameter/H5/TextTitle": {
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "攻撃力": "攻擊力",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/TextTitle": {
+    "装備詳細": "裝備詳情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/ButtonArea/Button_Initialization/RootUI/Parts/Text": {
+    "フィルター初期化": "初始化過濾器"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentCategory/Filter_UnEnchant/RootUI/Parts/Text": {
+    "未鑑定装備": "未鑑定裝備"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentCategory/H4/TextTitle": {
+    "装備カテゴリ": "裝備類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentManaType/H4/TextTitle": {
+    "装備の紋章": "裝備的紋章"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentManaType/ManaType1/RootUI/Parts/Text": {
+    "情熱": "熱情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentManaType/ManaType2/RootUI/Parts/Text": {
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentManaType/ManaTypeNone/RootUI/Parts/Text": {
+    "紋章なし": "無紋章"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_EquipmentRarity/H4/TextTitle": {
+    "レアリティ": "稀有度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Other/H4/TextTitle": {
+    "その他": "其他"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Other/Lock/Position1/RootUI/Parts/Text": {
+    "ロック中": "已鎖定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Other/Lock/Position2/RootUI/Parts/Text": {
+    "未ロック": "未鎖定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Other/UseParty/Position0/RootUI/Parts/Text": {
+    "使用中": "使用中"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Rank/H4/TextTitle": {
+    "ランク": "級別"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Rank/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
+    "ランク{0}以上": "級別{0}以上",
+    "ランク{0}以下": "級別{0}以下"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Rank/PullDownEquipmentRank/PullDown/ScrollerV/Container/CellView(Clone)/List_PullDown/RootUI/Text": {
+    "ランク{0}以上": "級別{0}以上"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortATK/RootUI/Parts/Text": {
+    "攻撃力": "攻擊力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortAttackContinuous/RootUI/Parts/Text": {
+    "連撃率": "連擊率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortAvoid/RootUI/Parts/Text": {
+    "回避率": "閃避率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortBurnt/RootUI/Parts/Text": {
+    "炎上耐性": "燃燒抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortCharmed/RootUI/Parts/Text": {
+    "魅了耐性": "魅惑抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortCriticalDamage/RootUI/Parts/Text": {
+    "会心ダメージ": "暴擊傷害"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortCriticalProbability/RootUI/Parts/Text": {
+    "会心率": "暴擊率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortDEF/RootUI/Parts/Text": {
+    "防御力": "防禦力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortFreeze/RootUI/Parts/Text": {
+    "凍結耐性": "凍結抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortGet/RootUI/Parts/Text": {
+    "入手": "獲得時間"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortLoss/RootUI/Parts/Text": {
+    "喪失耐性": "喪失抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortParalysis/RootUI/Parts/Text": {
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortPower/RootUI/Parts/Text": {
+    "戦力": "戰鬥力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortRank/RootUI/Parts/Text": {
+    "ランク": "級別"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortRarity/RootUI/Parts/Text": {
+    "レアリティ": "稀有度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortStone/RootUI/Parts/Text": {
+    "石化耐性": "石化抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortUnidentified/RootUI/Parts/Text": {
+    "未鑑定": "未鑑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "ソート": "排序方式"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Selected_Tab/Text": {
+    "ソート": "排序方式"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "フィルター": "過濾器"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Selected_Tab/Text": {
+    "フィルター": "過濾器"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/TextTitle": {
+    "表示設定": "顯示設定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/KizunaLv/Text_Lv": {
+    "絆Lv{0}": "好感度Lv{0}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/Rewards/RewardLabel/Text": {
+    "報酬": "獎勵"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/Rewards/TextReward": {
+    "+絆pt{0}": "+好感點{0}",
+    "「{0}」の最大Lvが{1}に上昇！": "「{0}」的最大Lv提升至{1}！"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/TextTitle": {
+    "絆ボーナス": "好感度加成"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Data/RootUI/Parts/Text": {
+    "データ連携": "資料綁定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Download/RootUI/Parts/Text": {
+    "一括ダウンロード": "批次下載"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Exit/RootUI/Parts/Text": {
+    "ゲーム終了": "退出遊戲"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Friend/RootUI/Parts/Text": {
+    "フレンド": "好友"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Help/RootUI/Parts/Text": {
+    "ヘルプ": "幫助"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Item/RootUI/Parts/Text": {
+    "アイテム一覧": "道具一覽"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Library/RootUI/Parts/Text": {
+    "図鑑": "圖鑑"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_LoginBonus/RootUI/Parts/Text": {
+    "ログインボーナス": "登入獎勵"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Option/RootUI/Parts/Text": {
+    "オプション": "選項"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_QuitTitle/RootUI/Parts/Text": {
+    "タイトルに戻る": "返回標題介面"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_SerialCode/RootUI/Parts/Text": {
+    "シリアルコード": "兌換碼"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/TextTitle": {
+    "メニュー": "菜單"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
+    "ホーム\n": "主頁\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextNormal": {
+    "ホーム": "主頁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
+    "ホーム": "主頁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/Text*": {
+    "パーティ": "隊伍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/Text*": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/Text*": {
+    "酒場": "酒館"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/Text*": {
+    "娼館": "娼館"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
+    "イベント": "活動"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/Text*": {
+    "クエスト": "冒險"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
+    "探索隊\n": "探索隊\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextNormal": {
+    "探索隊": "探索隊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextSelected": {
+    "探索隊": "探索隊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/LockFooter/Anim/TextDisabled": {
+    "探索隊\n": "探索隊\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Text": {
+    "ストーリーをスキップします。": "將跳過劇情。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/TextNote": {
+    "セリフウィンドウ長押しで高速表示となります。": "長按對話視窗即可高速顯示。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/ButtonSet/Button_CharacterChange/RootUI/Parts/Text": {
+    "キャラクター変更": "更換角色"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/ButtonSet/Button_CharacterLvUp/RootUI/Parts/Text": {
+    "キャラクター強化": "角色強化"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/ButtonSet/Button_EquipmentChange/RootUI/Parts/Text": {
+    "装備変更": "裝備更換"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Info/ArmorParts/H5/TextTitle": {
+    "防具タイプ": "防具類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Info/ArmorParts/Text": {
+    "マント": "披風",
+    "作業着": "工作服",
+    "鎧": "鎧甲"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Info/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Info/Job/Text": {
+    "ピッケル": "鎬",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "魔導書": "魔導書"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/ObjectPosition_Party/Assist/Text": {
+    "アシスト": "輔助"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/ObjectPosition_Party/Back/Text": {
+    "バック": "後排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/ObjectPosition_Party/Forward/Text": {
+    "フロント": "前排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/Position/Assist/Text": {
+    "ポジション{0}": "位置{0}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/Basic/Name/Position/ForwardBack/Text": {
+    "ポジション{0}": "位置{0}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/H3/TextTitle": {
+    "状態異常耐性": "狀態異常抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Burnt/TextLabel": {
+    "炎上": "燃燒"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Charmed/TextLabel": {
+    "魅了": "魅惑"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Frozen/TextLabel": {
+    "凍結": "凍結"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Loss/TextLabel": {
+    "喪失": "喪失"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Paralysis/TextLabel": {
+    "麻痺": "麻痺"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/Detail/ATK/H5/TextTitle": {
+    "攻撃力": "攻擊力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/Detail/AttackContinuousProbability/H5/TextTitle": {
+    "連撃率": "連擊率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalDamageRate/H5/TextTitle": {
+    "会心ダメ": "暴擊傷害"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalProbability/H5/TextTitle": {
+    "会心率": "暴擊率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/RollLabel/Label01/Text": {
+    "攻撃": "攻擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/SkillCharge/ChargeLabel": {
+    "スキルチャージ：": "技能充能時間："
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabContents/Anim/Skill/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab1/Button_Tab/RootUI/Parts/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab1/Selected_Tab/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab2/Button_Tab/RootUI/Parts/Text": {
+    "スキル": "技能"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab2/Selected_Tab/Text": {
+    "スキル": "技能"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab3/Button_Tab/RootUI/Parts/Text": {
+    "アビリティ": "能力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Contents_CharacterDetail/Contents/Set/SubTabH_Three/SubTab3/Selected_Tab/Text": {
+    "アビリティ": "能力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/None/Text": {
+    "装備がありません": "沒有裝備"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/Container/Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Job/Text": {
+    "ピッケル": "鎬",
+    "マント": "披風",
+    "作業着": "工作服",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "鎧": "鎧甲",
+    "魔導書": "魔導書"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/Container/Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/Container/Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "攻撃力": "攻擊力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/DevContent/Weapon/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
+    "鑑定": "鑑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/DevContent/Weapon/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/Rarity/UnEnchant/Text": {
+    "未鑑定": "未鑑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/DevContent/Weapon/Contents_EquipmentDetail/Contents/Default /Info/Status/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/Equipment/ScrollerV/DevContent/Weapon/Contents_EquipmentDetail/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "会心ダメージ": "暴擊傷害"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Now/Contents/Default /Info/Status/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Now/Contents/Default /Info/Status/Job/Text": {
+    "ピッケル": "鎬",
+    "マント": "披風",
+    "作業着": "工作服",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "鎧": "鎧甲",
+    "魔導書": "魔導書"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Now/Contents/Default /Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Now/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "攻撃力": "攻擊力",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Select/Contents/Default /Info/Status/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Select/Contents/Default /Info/Status/Job/Text": {
+    "ピッケル": "鎬",
+    "マント": "披風",
+    "作業着": "工作服",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "鎧": "鎧甲",
+    "魔導書": "魔導書"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Select/Contents/Default /Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Contents/Select/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "攻撃力": "攻擊力",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_EquipmentSelect(Clone)/Box/TextTitle": {
+    "装備変更": "裝備更換"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_AcountData/RootUI/Parts/Text": {
+    "<cspace=-0.1em>アカウントデータ</cspace>削除": "<cspace=-0.1em>賬號資料</cspace>刪除"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_CacheClear/RootUI/Parts/Text": {
+    "<cspace=-0.1em>キャッシュクリア</cspace>": "<cspace=-0.1em>清除快取</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_Contact/RootUI/Parts/Text": {
+    "お問い合わせ": "聯繫客服"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_GameSetting/RootUI/Parts/Text": {
+    "<cspace=-0.1em>オプション</cspace>": "<cspace=-0.1em>選項</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_License/RootUI/Parts/Text": {
+    "<cspace=-0.1em>ライセンス</cspace>表記": "<cspace=-0.1em>許可證</cspace>資訊"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_News/RootUI/Parts/Text": {
+    "お知らせ": "新聞"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_Policy/RootUI/Parts/Text": {
+    "利用規約": "使用者協議"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_PrivacyPolicy/RootUI/Parts/Text": {
+    "<cspace=-0.1em>プライバシーポリシー</cspace>": "<cspace=-0.1em>隱私政策</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_VariousPolicy/RootUI/Parts/Text": {
+    "注意事項": "注意事項"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/TextTitle": {
+    "メニュー": "菜單"
+  },
+  "Engine/View/Canvas/System UI/Toast/RootUI/MissionName/Label/Pos/TextMissionPass": {
+    "ミッションパス": "任務通行證"
+  },
+  "Engine/View/Canvas/System UI/Toast/RootUI/MissionName/Text": {
+    "初めてのログイン": "首次登入"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
+    "すべて選択": "全選"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "会心ダメージ": "暴擊傷害",
+    "会心率": "暴擊率",
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "回避率": "閃避率",
+    "戦力": "戰鬥力",
+    "攻撃力": "攻擊力",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "連撃率": "連擊率",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
+    "ソート": "排序",
+    "戦力": "戰鬥力"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/Text": {
+    "設定した内容の装備が選択されます": "將選擇符合設定條件的裝備"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "会心率: {0}": "暴擊率: {0}",
+    "会心ﾀﾞﾒ: {0}": "暴擊傷害: {0}",
+    "凍結耐性: {0}": "凍結抗性: {0}",
+    "喪失耐性: {0}": "喪失抗性: {0}",
+    "回避率: {0}": "閃避率: {0}",
+    "戦力: {0}": "戰鬥力: {0}",
+    "攻撃力: {0}": "攻擊力: {0}",
+    "炎上耐性: {0}": "燃燒抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "連撃率: {0}": "連擊率: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痺抗性: {0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
+    "報酬": "獎勵"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Accessary/Head/Lv/TextTitle": {
+    "アクセサリ Lv": "飾品 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Accessary/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Armor/Head/Lv/TextTitle": {
+    "防具 Lv": "防具 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Armor/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Weapon/Head/Lv/TextTitle": {
+    "武器 Lv": "武器 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Weapon/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/TextTitle": {
+    "マイレージ": "里程"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/ButtonGroup/Total/TextTitle": {
+    "分解総数：": "分解總數："
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
+    "ランク{0}以下": "級別{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/PullDownEquipmentRank/PullDown/ScrollerV/Container/CellView(Clone)/List_PullDown/RootUI/Text": {
+    "ランク{0}以下": "級別{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Accessary/RootUI/Parts/Text": {
+    "アクセサリ": "飾品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Impact/RootUI/Parts/Text": {
+    "衝撃": "衝擊"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/NoMana/RootUI/Parts/Text": {
+    "紋章なし": "無紋章"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Zeal/RootUI/Parts/Text": {
+    "情熱": "熱情"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Left/Default/Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Left/Default/Info/Status/Parameter/H5/TextTitle": {
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "攻撃力": "攻擊力",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Left/None/Text": {
+    "選択されていません": "未選擇"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/Button_BulkDisassembly/RootUI/Parts/Text": {
+    "一括分解へ": "批次分解"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/Button_BulkLock/RootUI/Parts/Text": {
+    "一括ロック": "批次鎖定"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "顯示切換"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ランク": "級別",
+    "レアリティ": "稀有度",
+    "会心ダメージ": "暴擊傷害",
+    "会心率": "暴擊率",
+    "入手": "獲得時間",
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "回避率": "閃避率",
+    "戦力": "戰鬥力",
+    "攻撃力": "攻擊力",
+    "未鑑定": "未鑑定",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "連撃率": "連擊率",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
+    "ソート": "排序",
+    "戦力": "戰鬥力"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "会心率: {0}": "暴擊率: {0}",
+    "会心ﾀﾞﾒ: {0}": "暴擊傷害: {0}",
+    "凍結耐性: {0}": "凍結抗性: {0}",
+    "喪失耐性: {0}": "喪失抗性: {0}",
+    "回避率: {0}": "閃避率: {0}",
+    "戦力: {0}": "戰鬥力: {0}",
+    "攻撃力: {0}": "攻擊力: {0}",
+    "炎上耐性: {0}": "燃燒抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "連撃率: {0}": "連擊率: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痺抗性: {0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/TabH_Three/Tab1/Selected_Tab/Text": {
+    "武器": "武器"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/TabH_Three/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "防具": "防具"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/TabH_Three/Tab3/Button_Tab/RootUI/Parts/Text": {
+    "アクセサリ": "飾品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
+    "すべて選択": "全選"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/Text": {
+    "設定した内容の装備が選択されます": "將選擇符合設定條件的裝備"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/List/ScrollerV/DevContent/CellView/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "攻撃：{0}": "攻擊：{0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
+    "報酬": "獎勵"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Head/Lv/TextTitle": {
+    "アクセサリ Lv": "飾品 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Head/Lv/TextTitle": {
+    "防具 Lv": "防具 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Head/Lv/TextTitle": {
+    "武器 Lv": "武器 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/NextRewards/Text": {
+    "報酬まで": "距獎勵還需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/TextTitle": {
+    "マイレージ": "里程"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/ButtonGroup/Total/TextTitle": {
+    "分解総数：": "分解總數："
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
+    "ランク{0}以下": "級別{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Accessary/RootUI/Parts/Text": {
+    "アクセサリ": "飾品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Impact/RootUI/Parts/Text": {
+    "衝撃": "衝擊"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/NoMana/RootUI/Parts/Text": {
+    "紋章なし": "無紋章"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Zeal/RootUI/Parts/Text": {
+    "情熱": "熱情"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/ButtonSet/Button_Disassembly/RootUI/Parts/Text": {
+    "分解": "分解"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/ButtonSet/Button_Equipped/RootUI/Parts/Text": {
+    "装備中キャラ": "已裝備的角色"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
+    "鑑定": "鑑定"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/Enchant/List_Enchant_S/Rarity/UnEnchant/Text": {
+    "未鑑定": "未鑑定"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/Info/Status/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/Info/Status/Parameter/H5/TextTitle": {
+    "会心ダメージ": "暴擊傷害"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/None/Text": {
+    "選択されていません": "未選擇"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/Head/Button_BulkDisassembly/RootUI/Parts/Text": {
+    "一括分解へ": "批次分解"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/Head/Button_BulkLock/RootUI/Parts/Text": {
+    "一括ロック": "批次鎖定"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/Head/Button_BulkLockFinish/RootUI/Parts/Text_Positive26": {
+    "ロック完了": "結束鎖定"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/Head/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "顯示切換"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/Anim/List/ScrollerV/DevContent/CellView/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "攻撃：{0}": "攻擊：{0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/TabH_Three/Tab1/Selected_Tab/Text": {
+    "武器": "武器"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/TabH_Three/Tab2/Selected_Tab/Text": {
+    "防具": "防具"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Right/TabH_Three/Tab3/Selected_Tab/Text": {
+    "アクセサリ": "飾品"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Arsenal/Button/RootUI/Layout/TextName": {
+    "兵器工場": "兵器工廠"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Equipment/Button/RootUI/Layout/TextName": {
+    "鍛冶屋": "鐵匠鋪"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Headquarter/Button/RootUI/Layout/TextName": {
+    "司令本部": "司令本部"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Laboratory/Button/RootUI/Layout/TextName": {
+    "研究所": "研究所"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Tavern/Button/RootUI/Layout/TextName": {
+    "娼館": "娼館"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Arsenal/Button/RootUI/Layout/TextName": {
+    "兵器工場": "兵器工廠"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Equipment/Button/RootUI/Layout/TextName": {
+    "鍛冶屋": "鐵匠鋪"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Headquarter/Button/RootUI/Layout/TextName": {
+    "司令本部": "司令本部"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Laboratory/Button/RootUI/Layout/TextName": {
+    "研究所": "研究所"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Tavern/Button/RootUI/Layout/TextName": {
+    "娼館": "娼館"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Interaction/Button/RootUI/Base/Active/Text": {
+    "交流": "交流"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Mission/RootUI/Parts/Text": {
+    "ミッション": "任務"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_News/RootUI/Parts/Text": {
+    "お知らせ": "新聞"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_PresentBox/RootUI/Parts/Text": {
+    "プレゼント": "禮物"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Research/Button/RootUI/Base/Active/Text": {
+    "施設": "設施"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_ResearchPlan/Button/RootUI/Base/Active/Text": {
+    "開発計画": "開發計劃"
+  },
+  "Home/UICanvas/RootUI/Home/Event/Button_MissionPass/RootUI/Base/Active/Text": {
+    "ミッション\nパス": "任務\n通行證"
+  },
+  "Home/UICanvas/RootUI/Home/Event/Button_SpMission/RootUI/Parts/Text": {
+    "初心者\nミッション": "新手\n任務"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Change/RootUI/Parts/Text": {
+    "おしごと用<br>コスチューム": "工作<br>服裝",
+    "通常用<br>コスチューム": "常規<br>服裝"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_CharaDetail/RootUI/Parts/Active/Text": {
+    "キャラ詳細": "角色資訊"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Box/TextTitle2": {
+    "所持": "持有"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Text": {
+    "能力強化": "能力強化"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/TextTitle1": {
+    "絆Pt": "好感點數"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Skin/RootUI/Parts/Text": {
+    "コスチューム": "服裝"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Profile/Button_Version/RootUI/Parts/Text": {
+    "別バージョン": "其他版本"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Top/Button_Bond_Present/RootUI/Parts/Text": {
+    "贈る": "贈送"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Top/Button_Bonus/RootUI/Parts/Text": {
+    "ボーナス": "加成"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Gauge_Lv/Frame/Text": {
+    "絆Lv": "好感度Lv"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/ListRoot/MultiScrollerV/Container/CellView1(Clone)/ListSet_Profile/List_Title/ListTitle/RootUI/TextTitle": {
+    "演出": "演出",
+    "ボイス": "語音"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/ListRoot/MultiScrollerV/Container/CellView2(Clone)/ListSet_Profile/List_Episode/RootUI/TextTitle": {
+    "獲得演出": "獲得演出",
+    "スタッフ登録演出": "員工登記演出"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_1/H5/TextTitle": {
+    "誕生日": "生日"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_2/H5/TextTitle": {
+    "所属国": "所屬陣營"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_3/H5/TextTitle": {
+    "好きなもの": "喜歡的東西"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_4/H5/TextTitle": {
+    "嫌いなもの": "討厭的東西"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "プロフィール": "角色簡介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab1/Selected_Tab/Text": {
+    "プロフィール": "角色簡介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "その他": "其他"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab2/Selected_Tab/Text": {
+    "その他": "其他"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Pager/Info/PagerAnim/InfoButtonSet/Button_Profile/Tag (1)/Text": {
+    "プロフィール": "角色簡介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/AmountExp/TextTitle": {
+    "所持数": "擁有數"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/ButtonSet/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "顯示切換"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/ButtonSet/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "Lv": "等級",
+    "レアリティ": "稀有度",
+    "入手": "獲得時間",
+    "名前": "姓名",
+    "絆Lv": "好感度等級"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fade/State/Cover/Text": {
+    "未所持": "未擁有"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "凍結耐性: {0}": "冰凍抗性: {0}",
+    "喪失耐性: {0}": "喪失抗性: {0}",
+    "戦力: {0}": "戰鬥力: {0}",
+    "攻撃力: {0}": "攻擊力: {0}",
+    "炎上耐性: {0}": "燃燒抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "絆Lv: {0}": "好感度Lv: {0}",
+    "防御力: {0}": "防禦力: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痺抗性: {0}"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/Anim/Tree/Anim/Icon/*/Button/RootUI/Select/Label/Text": {
+    "選択中": "選擇中"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/H5/TextTitle": {
+    "アイテム預かり": "道具寄存",
+    "アビスコードリロール回数": "深淵代碼重置次數",
+    "アビスコード所持上限": "深淵代碼持有上限",
+    "チェックポイントフロア数": "檢查點層數",
+    "ドロップ率": "掉落率",
+    "研究ポイント獲得率": "研究點獲得率",
+    "開始時の所持アビスコイン": "初始持有深淵幣"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/Text": {
+    "+{0}枚": "+{0}枚",
+    "{0}フロア": "{0}層",
+    "{0}個": "{0}個",
+    "{0}回": "{0}次"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/H3/TextTitle": {
+    "深淵限定の特殊効果一覧": "深淵限定特殊效果一覽"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/H3/TextTitle": {
+    "選択中の研究詳細": "所選研究詳情"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/Layout/TextTitle": {
+    "研究効果：アビスコードリロール回数+{0}": "研究效果：深淵代碼重置次數+{0}",
+    "研究効果：アビスコード所持上限増加": "研究效果：深淵代碼持有上限增加",
+    "研究効果：チェックポイント解放({0}F)": "研究效果：解鎖檢查點({0}F)",
+    "研究効果：ドロップ率上昇": "研究效果：掉落率提升",
+    "研究効果：初期アビスコイン増加": "研究效果：初始深淵幣增加",
+    "研究効果：深淵前輸送機能解放": "研究效果：解鎖深淵前運輸功能",
+    "研究効果：研究ポイント倍率上昇": "研究效果：研究點倍率提升"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Button_NetherRresearch/RootUI/Parts/Text": {
+    "研究する": "研究"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/ArmorParts/H5/TextTitle": {
+    "防具タイプ": "防具類型"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/ArmorParts/Text": {
+    "マント": "披風",
+    "作業着": "工作服",
+    "鎧": "鎧甲"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/Element/Text": {
+    "無": "無",
+    "闇": "暗"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/Job/Text": {
+    "ピッケル": "鎬",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "魔導書": "魔導書"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Name/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情",
+    "衝撃": "衝擊"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Assist/Text": {
+    "アシスト": "輔助"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Back/Text": {
+    "バック": "後排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Forward/Text": {
+    "フロント": "前排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Ability/List_AbilityButton/Button_Thumbnail/RootUI/Base/Active/Thumbnail_Skill/Lock/Text": {
+    "未取得": "未獲得"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Ability/List_AbilityButton/Detail/Lock/TextLock": {
+    "「交流」で絆Lvを5以上にすると<br>アビリティの解放が可能になります。": "在「交流」中將羈絆Lv提升至5以上後<br>即可解鎖能力。",
+    "アイテムを消費してアビリティを解放": "消耗道具解鎖能力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/H3/TextTitle": {
+    "状態異常耐性": "狀態異常抗性"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Burnt/TextLabel": {
+    "炎上": "燃燒"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Charmed/TextLabel": {
+    "魅了": "魅惑"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Frozen/TextLabel": {
+    "凍結": "凍結"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Loss/TextLabel": {
+    "喪失": "喪失"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Paralysis/TextLabel": {
+    "麻痺": "麻痺"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/ATK/H5/TextTitle": {
+    "攻撃力": "攻擊力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/AttackContinuousProbability/H5/TextTitle": {
+    "連撃率": "連擊率"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalDamageRate/H5/TextTitle": {
+    "会心ダメ": "暴擊傷害"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalProbability/H5/TextTitle": {
+    "会心率": "暴擊率"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/RollLabel/Label01/Text": {
+    "攻撃": "攻擊"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/SkillCharge/ChargeLabel": {
+    "スキルチャージ：": "技能充能時間："
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab1/Button_Tab/RootUI/Parts/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab1/Selected_Tab/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab2/Button_Tab/RootUI/Parts/Text": {
+    "スキル": "技能"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab2/Selected_Tab/Text": {
+    "スキル": "技能"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab3/Button_Tab/RootUI/Parts/Text": {
+    "アビリティ": "能力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/SubTabH_Three/SubTab3/Selected_Tab/Text": {
+    "アビリティ": "能力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/SpecialEffectSwitchButton/ButtonSpecialEffect1/RootUI/Parts/Frame_Select/Label/Text": {
+    "表示中": "顯示中"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/SpecialEffectSwitchButton/H4_Line/TextTitle": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet3/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet3/Button_Ok/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet3/Button_Quick/RootUI/Parts/Text": {
+    "クイック選択": "快速選擇"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "顯示切換"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/ObjectPosition/Assist/Text": {
+    "アシスト": "輔助"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/ObjectPosition/Back/Text": {
+    "バック": "後排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/ObjectPosition/Forward/Text": {
+    "フロント": "前排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/Head/TextTitle": {
+    "キャラクター": "角色"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Chara_Party*/Waiting/Button/RootUI/Fade/State/Entry/Text": {
+    "編成中": "編隊中"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Right/Frame_EquipmentList/Default/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Chara_Party*/Waiting/Button/RootUI/Fade/State/SpecialEffect/Text": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/ArmorParts/H5/TextTitle": {
+    "防具タイプ": "防具類型"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/ArmorParts/Text": {
+    "マント": "披風",
+    "作業着": "工作服",
+    "鎧": "鎧甲"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/Element/Text": {
+    "火": "火"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/Job/Text": {
+    "ピッケル": "鎬",
+    "大剣": "大劍",
+    "拳": "拳套",
+    "杖": "法杖",
+    "片手剣": "單手劍",
+    "銃": "槍",
+    "魔導書": "魔導書"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Info/Union/Text": {
+    "千国联合": "千國聯合"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Name/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Assist/Text": {
+    "アシスト": "輔助",
+    "バック": "後排",
+    "フロント": "前排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Back/Text": {
+    "バック": "後排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/Basic/Name/ObjectPosition_Party/Forward/Text": {
+    "フロント": "前排"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/H3/TextTitle": {
+    "状態異常耐性": "狀態異常抗性"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Burnt/TextLabel": {
+    "炎上": "燃燒"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Charmed/TextLabel": {
+    "魅了": "魅惑"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Frozen/TextLabel": {
+    "凍結": "凍結"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Loss/TextLabel": {
+    "喪失": "喪失"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Paralysis/TextLabel": {
+    "麻痺": "麻痺"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/ConditionResistance/List/ConditionResistanceList/Resist_Stoned/TextLabel": {
+    "石化": "石化"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/ATK/H5/TextTitle": {
+    "攻撃力": "攻擊力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/AttackContinuousProbability/H5/TextTitle": {
+    "連撃率": "連擊率"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalDamageRate/H5/TextTitle": {
+    "会心ダメ": "暴擊傷害"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/CriticalProbability/H5/TextTitle": {
+    "会心率": "暴擊率"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/DEF/H5/TextTitle": {
+    "防御力": "防禦力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Paramater/Detail/ElementAdvantageCorrection/H5/TextTitle": {
+    "属性特攻": "屬性特攻"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/RollLabel/Label04/Text": {
+    "バフ": "增益"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/H3/SkillCharge/ChargeLabel": {
+    "スキルチャージ：": "技能充能時間："
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabContents/Anim/Skill/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab1/Button_Tab/RootUI/Parts/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab1/Selected_Tab/Text": {
+    "パラメータ": "角色參數"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab2/Button_Tab/RootUI/Parts/Text": {
+    "スキル": "技能"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab2/Selected_Tab/Text": {
+    "スキル": "技能"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab3/Button_Tab/RootUI/Parts/Text": {
+    "アビリティ": "能力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Left/Contents/Set/SubTabH_Three/SubTab3/Selected_Tab/Text": {
+    "アビリティ": "能力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Category/Anim/Thumbnail_Category_Accessory/Waiting/Button/RootUI/Fixed/State/Sort/Text": {
+    "戦力: {0}": "戰鬥力: {0}"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Category/Anim/Thumbnail_Category_Accessory/Waiting/Button/RootUI/Fixed/State/TextCategoryName": {
+    "アクセサリ": "飾品"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Category/Anim/Thumbnail_Category_Armor/Waiting/Button/RootUI/Fixed/State/Sort/Text": {
+    "戦力: {0}": "戰鬥力: {0}"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Category/Anim/Thumbnail_Category_Weapon/Waiting/Button/RootUI/Fixed/State/Sort/Text": {
+    "戦力: {0}": "戰鬥力: {0}",
+    "攻撃力: {0}": "攻擊力: {0}"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet4/Button_AllCancel/RootUI/Parts/Text": {
+    "すべて外す": "全部卸下"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet4/Button_Auto/RootUI/Parts/Text": {
+    "おまかせ": "自動搭配"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet4/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/ButtonSet/Popup_ButtonSet4/Button_Ok/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/Default/Head/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "顯示切換"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/Default/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ランク": "級別",
+    "レアリティ": "稀有度",
+    "会心ダメージ": "暴擊傷害",
+    "会心率": "暴擊率",
+    "入手": "獲得時間",
+    "凍結耐性": "凍結抗性",
+    "喪失耐性": "喪失抗性",
+    "回避率": "閃避率",
+    "戦力": "戰鬥力",
+    "攻撃力": "攻擊力",
+    "未鑑定": "未鑑定",
+    "炎上耐性": "燃燒抗性",
+    "石化耐性": "石化抗性",
+    "連撃率": "連擊率",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痺抗性"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/Default/Head/TextTitle": {
+    "アクセサリ": "飾品"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyEquipmentSelect/Right/Frame_EquipmentList/Default/List/ScrollerV/Container/CellView(Clone)/Thumbnail_PartyEquipmentSelect/Thumbnail_Equipment_174/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "凍結耐性: {0}": "凍結抗性: {0}",
+    "喪失耐性: {0}": "喪失抗性: {0}",
+    "戦力: {0}": "戰鬥力: {0}",
+    "攻撃力: {0}": "攻擊力: {0}",
+    "炎上耐性: {0}": "燃燒抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痺抗性: {0}"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_AutoParty/RootUI/Parts/Text": {
+    "おまかせ\n編成": "自動\n編隊",
+    "自动\n編队": "自動\n編隊"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Information/RootUI/Parts/Text": {
+    "アシスト\nボーナス": "輔助\n獎勵"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Quick/RootUI/Parts/Text": {
+    "クイック\n選択": "快速\n選擇"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Release/RootUI/Parts/Text": {
+    "一括解除": "全部移除"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/PowerLvChange /Button_Toggle/RootUI/Lv/TextOff": {
+    "戦力": "戰鬥力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/PowerLvChange /Button_Toggle/RootUI/Power/On/TextOn": {
+    "戦力": "戰鬥力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/SpecialEffectSwitchButton/ButtonSpecialEffect1/RootUI/Parts/Frame_Select/Label/Text": {
+    "表示中": "顯示中"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/SpecialEffectSwitchButton/H4_Line/TextTitle": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/BoxSPTotal/SPTotal/Line_H5/TextTitle": {
+    "特効合計": "特效提升"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/TextPower/Text": {
+    "総合戦力": "綜合戰鬥力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "リセット": "重置"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "登録": "保存"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/H4_Line/TextTitle": {
+    "マナクリスタル": "能量水晶"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/Thumbnail_Category_ManaGem/RootUI/Base/Active/Set/Mana/TextLayout/TextLabel": {
+    "マナ": "能量"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/RollAttention/Text": {
+    "全スタンスのキャラを1人以上編成してください": "請在各個位置上至少編入1名角色"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/H3/TextTitle": {
+    "アシストボーナス": "輔助獎勵"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/Label/Text": {
+    "キャラ": "角色"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/List_Support2/H5/TextTitle": {
+    "攻撃": "攻擊"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/List_Support3/H5/TextTitle": {
+    "防御": "防禦"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Text": {
+    "追加アイテム入手確率": "額外道具獲得機率"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Title/Text": {
+    "パーティ": "隊伍"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/Party/Party*/Party*/Thumbnail_SDChara/RootUI/Contents/Set/Front/Lower/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "熱情"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/Party/Party*/Party*/Thumbnail_SDChara/RootUI/Contents/Set/Front/Upper/SpecialEffect/Text": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PartyName/IconButton_Copy/RootUI/Parts/Text": {
+    "編成コピー": "編隊複製"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PartyName/IconButton_Pen/RootUI/Parts/Text": {
+    "編成名変更": "修改隊伍名"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PartyName/PullDownPartyName/Button/RootUI/Parts/NameSet/Text": {
+    "編成{0}": "編隊{0}"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PositionChange/ButtonSet/Button_CharaChange/RootUI/Parts/Text": {
+    "変更": "替換"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PositionChange/ButtonSet/Button_CharaEnhance/RootUI/Parts/Text": {
+    "強化": "強化"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PositionChange/ButtonSet/Button_EquipmentChange/RootUI/Parts/Text": {
+    "装備": "裝備"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PositionChange/ButtonSet/Button_PositionChange/RootUI/Parts/Text": {
+    "移動": "移動"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/L/None/Text": {
+    "キャラクターを選択してください。": "請選擇一名角色"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "Lv": "等級",
+    "レアリティ": "稀有度",
+    "所属勢力": "所屬陣營",
+    "絆Lv": "好感度等級"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/Layout/TextWork": {
+    "フロア1": "底層1",
+    "フロア2": "底層2",
+    "フロア3": "底層3",
+    "ラウンジ1": "休息室1",
+    "ラウンジ2": "休息室2",
+    "個室1": "包廂1",
+    "個室2": "包廂2",
+    "個室3": "包廂3"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast (1)/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "絆Lv: {0}": "好感度Lv: {0}"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Done/Label/TextDone": {
+    "フロア1<br>に配置": "底層1<br>已配置",
+    "フロア2<br>に配置": "底層2<br>已配置",
+    "フロア3<br>に配置": "底層3<br>已配置",
+    "ラウンジ1<br>に配置": "休息室1<br>已配置",
+    "ラウンジ2<br>に配置": "休息室2<br>已配置",
+    "個室1<br>に配置": "包廂1<br>已配置",
+    "個室2<br>に配置": "包廂2<br>已配置",
+    "個室3<br>に配置": "包廂3<br>已配置"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "選擇中"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/NaviChara/Balloon_SerifTap/Text": {
+    "順調、順調♪<br>もっと可愛い女の子を紹介して頂戴♪": "不錯、不錯♪<br>請再多給我介紹些可愛的女孩子吧♪"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Evaluation/H5_TavernCol/TextTitle": {
+    "満足度評価": "滿意度評價"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Satisfaction/H5_TavernCol/TextTitle": {
+    "最高満足度": "最高滿意度"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_Cast/H5/TextTitle": {
+    "スタッフ数": "員工數量"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_LevelName/H5/TextTitle": {
+    "規模": "規模"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/ButtonSet/Button_GameStart/Start/RootUI/Parts/Text": {
+    "営業開始": "開始營業"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/ButtonSet/Button_Management/RootUI/Parts/Text": {
+    "運営情報": "經營情報"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Counter/Button_Auto/Button_Auto/RootUI/Parts/TextL": {
+    "おまかせ配置": "自動配置"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor1/Floor1/RoomStyle/RoomTag/TextName": {
+    "フロア1": "底層1"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor1/Floor2/RoomStyle/RoomTag/TextName": {
+    "フロア2": "底層2"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor1/Floor3/RoomStyle/RoomTag/TextName": {
+    "フロア3": "底層3"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor2/Lounge1/RoomStyle/RoomTag/TextName": {
+    "ラウンジ2": "休息室2"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor2/Lounge2/RoomStyle/RoomTag/TextName": {
+    "ラウンジ1": "休息室1"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor3/Private1/RoomStyle/RoomTag/TextName": {
+    "個室1": "包廂1"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor3/Private2/RoomStyle/RoomTag/TextName": {
+    "個室2": "包廂2"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Floor3/Private3/RoomStyle/RoomTag/TextName": {
+    "個室3": "包廂3"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Note/Text": {
+    "キャラをタッチして配置しましょう": "點選角色即可進行配置"
+  },
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
+    "鑑定": "鑑定"
+  },
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/Rarity/UnEnchant/Text": {
+    "未鑑定": "未鑑定"
+  },
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Job/H5/TextTitle": {
+    "武器タイプ": "武器類型"
+  },
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "会心ダメージ": "暴擊傷害"
+  }
+}
