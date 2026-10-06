@@ -603,6 +603,141 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/TextNote": {
     "セリフウィンドウ長押しで高速表示となります。": "長按對話視窗即可高速顯示。"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "確定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/Button_OptionReset/RootUI/Parts/Text_Normal26": {
+    "設定リセット": "重置設置"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "画面": "畫面"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab1/Selected_Tab/Text": {
+    "画面": "畫面"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "バトル": "戰鬥"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab2/Selected_Tab/Text": {
+    "バトル": "戰鬥"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab3/Button_Tab/RootUI/Parts/Text": {
+    "サウンド": "聲音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab3/Selected_Tab/Text": {
+    "サウンド\n": "聲音\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab4/Button_Tab/RootUI/Parts/Text": {
+    "テキスト": "文字"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab4/Selected_Tab/Text": {
+    "テキスト": "文字"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Disaster/H4/TextTitle": {
+    "バトルスピード（厄災戦闘）": "戰鬥速度（災厄戰鬥）"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Disaster/Select/Speed_OneTimes/RootUI/Parts/Text": {
+    "1倍": "1倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Disaster/Select/Speed_ThreeTimes/RootUI/Parts/Text": {
+    "3倍": "3倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Disaster/Select/Speed_TwoTimes/RootUI/Parts/Text": {
+    "2倍": "2倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Normal/H4/TextTitle": {
+    "バトルスピード（通常戦闘）": "戰鬥速度（普通戰鬥）"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Normal/Select/Speed_OneTimes/RootUI/Parts/Text": {
+    "1倍": "1倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Normal/Select/Speed_ThreeTimes/RootUI/Parts/Text": {
+    "3倍": "3倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Normal/Select/Speed_TwoTimes/RootUI/Parts/Text": {
+    "2倍": "2倍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Disaster/H4/TextTitle": {
+    "マナクリスタルの自動使用（厄災戦闘）": "能量水晶自動使用（災厄戰鬥）"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Disaster/Select/Auto_Active/RootUI/Parts/Text": {
+    "する": "開啟"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Disaster/Select/Auto_Inactive/RootUI/Parts/Text": {
+    "しない": "關閉"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Normal/H4/TextTitle": {
+    "マナクリスタルの自動使用（通常戦闘）": "能量水晶自動使用（普通戰鬥）"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Normal/Select/Auto_Active/RootUI/Parts/Text": {
+    "する": "開啟"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_AutoUse_Normal/Select/Auto_Inactive/RootUI/Parts/Text": {
+    "しない": "關閉"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_Skip/H4/TextTitle": {
+    "マナクリスタルの演出スキップ": "跳過能量水晶演出"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_Skip/Select/Auto_Active/RootUI/Parts/Text": {
+    "する": "開啟"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_Skip/Select/Auto_Inactive/RootUI/Parts/Text": {
+    "しない": "關閉"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Sounds/AllMute/Builtin_H4/TextTitle": {
+    "全ミュート": "全部靜音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Sounds/Voice/Builtin_H4/TextTitle": {
+    "ボイス": "語音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/H4/TextTitle": {
+    "表示速度": "顯示速度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/Sample/Text": {
+    "テキストスピードのサンプルです。": "這是文字速度的示例。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/Select/Speed0_Slow/RootUI/Parts/Text": {
+    "遅い": "慢"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/Select/Speed1_Normal/RootUI/Parts/Text": {
+    "普通": "普通"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/Select/Speed2_High/RootUI/Parts/Text": {
+    "速い": "快"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Speed/Select/Speed3_Skip/RootUI/Parts/Text": {
+    "即時": "即時"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Transparency/Builtin_H4/TextTitle": {
+    "ウィンドウ透過度": "視窗透明度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Transparency/Sample/WindowSample/Sample_M_Text": {
+    "ウィンドウ透過度確認用のサンプルテキストです。": "這是用於確認視窗透明度的示例文字。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Texts/Transparency/Sample/WindowSample/TextName": {
+    "プレイヤー名テキスト": "玩家名文字"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Window/FPS/H4/TextTitle": {
+    "フレームレート": "幀率"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Window/Window_Setting/H4/TextTitle": {
+    "画面設定": "畫面設置"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Window/Window_Setting/Select/FullScreen/RootUI/Parts/Text": {
+    "フルスクリーン": "全屏"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Window/Window_Setting/Select/WindowSize/RootUI/Parts/Text": {
+    "ウィンドウ": "視窗"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Window/Window_Size/H4/TextTitle": {
+    "ウィンドウサイズ": "視窗尺寸"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/TextTitle": {
+    "オプション": "選項"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/ButtonSet/Button_CharacterChange/RootUI/Parts/Text": {
     "キャラクター変更": "更換角色"
   },
