@@ -1,4 +1,46 @@
 {
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/BonusQuest/Box/None_BonusQuest/BonusQuest_Balloon/Box/Title": {
+    "クエスト発生率": "關卡觸發率"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/BonusQuest/Box/None_BonusQuest/Text": {
+    "イベント<br>ボーナスクエスト": "活動<br>獎勵關卡"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/Date/Text": {
+    "開催期間:": "活動期間："
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/Date/Value": {
+    "{0} ～ {1}まで": "{0} ～ {1}截止"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/Set_Button/Button_Gacha/RootUI/Parts/Text": {
+    "イベント\nガチャ": "活動\n招募"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsL/Set_Button/Button_SpecialEffect/RootUI/Parts/Text": {
+    "特効キャラ": "加成角色"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/BoxInfo/Amount_Update/Text": {
+    "残り": "剩餘"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/BoxInfo/Box_Dot/Text": {
+    "ボックス更新": "更新獎池"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/BoxInfo/ChallengeCount/TextTitle": {
+    "ラッキーボックス券": "幸運寶箱券"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/BoxInfo/Text_BoxNumber": {
+    "ボックス{0}": "獎池{0}"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/Layout/PickUp/PickUpItem/Amount_Rewards/Title/Text": {
+    "残り": "剩餘"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Anim/List/Layout/Scroll/ScrollerV/Container/CellView(Clone)/Thumbnail_BoxGacha*/Amount_Rewards/Title/Text": {
+    "残り": "剩餘"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Button_Gruop/Button_PositiveValue/RootUI/Parts/Text": {
+    "{0}回引く": "抽取{0}次"
+  },
+  "BoxGachaEvent/UICanvas/RootUI/UIGroup/Top/ContentsR/Button_Gruop/Button_XPullGacha/Button_PositiveValue/RootUI/Parts/Text": {
+    "{0}回引く": "抽取{0}次"
+  },
   "CellView(Clone)/List_PullDown/RootUI/Text": {
     "ランク{0}以下": "級別{0}以下"
   },
@@ -361,7 +403,8 @@
     "編成": "編隊",
     "装備一覧": "裝備一覽",
     "装備選択": "裝備選擇",
-    "キャラ詳細": "角色資訊"
+    "キャラ詳細": "角色資訊",
+    "ラッキーボックス": "幸運寶箱"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
