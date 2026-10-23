@@ -1,6 +1,8 @@
 # dotabyss-translation-zh_Hant
 
-Traditional Chinese (Taiwan) translation files for Dot Abyss, converted from the Simplified Chinese translation at [anosu/dotabyss-translation](https://github.com/anosu/dotabyss-translation). Upstream changes are picked up within an hour.
+Traditional Chinese (Taiwan) translation files for Dot Abyss, converted from the Simplified Chinese translation at [anosu/dotabyss-translation](https://github.com/anosu/dotabyss-translation).
+
+The upstream repository has been unavailable since 2026-10-22. The translations here match upstream commit `f6c551d` and will not update until it returns.
 
 ## Use with AbyssMod (PC)
 
